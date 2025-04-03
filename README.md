@@ -1,7 +1,8 @@
 # Tidal Artist Image Fetcher Extension
 
-![Extension Preview] 
-![tidal_home](https://github.com/user-attachments/assets/2627cfbf-806f-437b-bbb5-23093a065ce7)
+![Extension Home Preview](https://github.com/user-attachments/assets/2627cfbf-806f-437b-bbb5-23093a065ce7)
+![Extension Artist Page Preview](https://github.com/user-attachments/assets/0eab4ae6-43e2-4394-a0f8-d5e0a462fd37)
+![Extension Artist Copy](https://github.com/user-attachments/assets/ba1090f6-bdf1-4f63-a868-8edf3e7505ab)
 
 *(Add a screenshot of your extension in action)*
 
