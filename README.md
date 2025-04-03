@@ -1,0 +1,1 @@
+# Tidal-Artist-Image-Fetcher-Extension
