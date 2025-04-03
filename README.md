@@ -1,7 +1,9 @@
 # Tidal Artist Image Fetcher Extension
 
-![Extension Preview](![image](https://github.com/user-attachments/assets/e046bb14-4709-4776-a678-eeebffe1bca6)
-) *(Add a screenshot of your extension in action)*
+![Extension Preview] 
+![tidal_home](https://github.com/user-attachments/assets/2627cfbf-806f-437b-bbb5-23093a065ce7)
+
+*(Add a screenshot of your extension in action)*
 
 A Chrome extension that fetches high-quality (750x750) artist image URLs from Tidal with one click. Perfect for music bloggers, playlist curators, and fans who want to save artist artwork.
 
