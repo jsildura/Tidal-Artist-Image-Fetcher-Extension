@@ -2,6 +2,9 @@
 
 A Chrome extension that fetches high-quality artist image URLs from Tidal with one click. Perfect for music bloggers, playlist curators, and fans who want to save artist artwork.
 
+## Download
+[Artist Image Downloader.zip](https://github.com/user-attachments/files/19583979/Artist.Image.Downloader.zip)
+
 ## Features ✨
 
 - **One-Click URL Fetching** - Get artist image URLs instantly
@@ -14,12 +17,12 @@ A Chrome extension that fetches high-quality artist image URLs from Tidal with o
 ## Installation 🛠️
 
 ### Manual Installation
-1. Download or clone this repository
-2. Open Chrome and navigate to: chrome://extensions/
+1. Download the zip file and unzip.
+3. Open Chrome and navigate to: chrome://extensions/
 
-3. Enable "Developer mode" (toggle in top-right corner)
-4. Click "Load unpacked"
-5. Select the extension directory containing the `manifest.json` file
+4. Enable "Developer mode" (toggle in top-right corner)
+5. Click "Load unpacked"
+6. Select the extension directory containing the `manifest.json` file
 
 ## How To Use 🎮
 
